@@ -19,7 +19,7 @@
 - I am refining my skills in Python by learning Machine Learning and AI as an Inspirit AI student. 
 - Check out my attempt at [tetris in C# WFA for my ISU](https://github.com/aKhalid8970/ISU.git)
 - Check out my [CS50 Progress](https://github.com/aKhalid8970/CS50p.git)
-- Check out [my resume](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:08951ed2-2188-4912-b686-e206231542ab)
+- Check out [my resume](https://docs.google.com/document/d/1rSttEqE2JW1GdeoO-Q-IxFhHbwYH65-KJv3o6QAV7-4/edit?usp=sharing)
 - Check out my [Searching for Exoplanets using a CNN project progress](https://github.com/aKhalid8970/Exoplanets.git)
 
 <br><br>
