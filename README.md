@@ -15,8 +15,7 @@
 
 <br>
 
-- Hey everyone! I am about to be a Grade 12 student at MHSS, and I am working on some exciting projects...
-- I am refining my skills in Python by learning Machine Learning and AI as an Inspirit AI student. 
+- Hey everyone! I am a grade 12 student looking to become an A.I. engineer  
 - Check out my attempt at [tetris in C# WFA for my ISU](https://github.com/aKhalid8970/ISU.git)
 - Check out my [CS50 Progress](https://github.com/aKhalid8970/CS50p.git)
 - Check out [my resume](https://docs.google.com/document/d/1rSttEqE2JW1GdeoO-Q-IxFhHbwYH65-KJv3o6QAV7-4/edit?usp=sharing)
