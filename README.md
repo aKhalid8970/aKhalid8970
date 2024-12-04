@@ -16,7 +16,7 @@
 <br>
 
 - Hey everyone! I am a grade 12 student looking to become an A.I. engineer  
-- Check out my attempt at [tetris in C# WFA for my ISU](https://github.com/aKhalid8970/ISU.git)
+- [Data Analysis and Linear Regression on automobile data](https://github.com/aKhalid8970/LinearRegression.git)
 - Check out my [CS50 Progress](https://github.com/aKhalid8970/CS50p.git)
 - Check out [my resume](https://docs.google.com/document/d/1rSttEqE2JW1GdeoO-Q-IxFhHbwYH65-KJv3o6QAV7-4/edit?usp=sharing)
 - Check out my [Searching for Exoplanets using a CNN project progress](https://github.com/aKhalid8970/Exoplanets.git)
